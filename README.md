@@ -1,2 +1,2 @@
 # amagi-chat
-My first Node-Websocket chat a[[
+My first Node-Websocket chat app
